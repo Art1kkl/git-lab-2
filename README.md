@@ -5,3 +5,4 @@
 Комплексная работа по Git: ветвление, слияние, отмена
 изменений, подмодули и Git LFS.
 Draft documentation
+Incorrect project description
